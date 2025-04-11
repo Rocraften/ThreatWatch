@@ -1,4 +1,4 @@
-**ThreatWatch: Your Comprehensive Free Web Security Solution**
+# ThreatWatch: Your Comprehensive Free Web Security Solution
 
 ThreatWatch is the next-generation web security scanner designed to empower users with professional-grade tools—completely free of charge. Built on cutting-edge technology, ThreatWatch is tailored for individuals, developers, and organizations striving to protect their online assets.
 
