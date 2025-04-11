@@ -1,6 +1,7 @@
 # [ThreatWatch](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file): Your Comprehensive Free Web Security Solution
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Rocraften/ThreatWatch?style=flat&logo=githubsponsors&logoColor=yellow&label=Stars&color=yellow) ![Discord](https://img.shields.io/discord/1296130890929405974?style=flat&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2F9zzE72bEfT)
+![GitHub Repo stars](https://img.shields.io/github/stars/Rocraften/ThreatWatch?style=flat&logo=githubsponsors&logoColor=yellow&label=Stars&color=yellow) ![GitHub Created At](https://img.shields.io/github/created-at/Rocraften/ThreatWatch?style=flat&logo=github&label=Created)
+ ![Discord](https://img.shields.io/discord/1296130890929405974?style=flat&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2F9zzE72bEfT)
 
 
 
